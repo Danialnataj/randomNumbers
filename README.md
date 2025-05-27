@@ -1,3 +1,5 @@
+# Random Numbers
+
 My second project in introductory to Java course.
 This projects lets the user pick a certain amount of random numbers ranging between 0-999.
 The program will then present to the user how many of these numbers are odd and how many even.
